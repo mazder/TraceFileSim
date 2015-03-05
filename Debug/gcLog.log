@@ -1,4 +1,0 @@
-    LINE | GC REASON | Total GCs: | Objects freed: | Live objects: | Heap used: | Free heap: |
-    4034 |         1 |          1 |              0 |          1025 |      99952 |     100048 |     0 |
-    8265 |         1 |          2 |              0 |             0 |     199984 |     -99983 |     0 |
-Failed to allocate 120 bytes in trace line 8265.
