@@ -1,4 +1,0 @@
-    Line |      GC Reason |  Total GCs |  Objects Freed |  Live Objects |  Heap Used |  Free Heap |
-    4034 |   Failed Alloc |          1 |              0 |          1025 |      99952 |     100048 |     0 |
-    8265 |   Failed Alloc |          2 |              0 |             0 |     199984 |     -99983 |     0 |
-Failed to allocate 120 bytes in trace line 8265.
