@@ -1,2 +1,5 @@
+<<<<<<< HEAD
     LINE | GC REASON | Total GCs: | Objects freed: | Live objects: | Heap used: | Free heap: |
     8462 |         1 |          1 |              0 |            28 |      99984 |     100016 |     0 |
+=======
+>>>>>>> parent of da9a9da... Minor bugfixes in real allocator
