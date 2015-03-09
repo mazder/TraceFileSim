@@ -1,4 +1,3 @@
 - finish traversal collector
 - the real allocator seems to have a problem after the heaps are swapped
-- fix collector stats for split heap
 - profile the simulator
