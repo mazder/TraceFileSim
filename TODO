@@ -1,0 +1,3 @@
+- finish traversal collector
+- the real allocator seems to have a problem after the heaps are swapped
+- profile the simulator
