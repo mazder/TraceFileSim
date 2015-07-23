@@ -1,9 +1,0 @@
-#!/bin/bash
-
-if [ "$(whoami)" == 'marcel' ]
-then
-  ./TraceFileSimulator ../../helloworld.trace $*
-else
-  echo "You are not authorized to run this program."
-fi
-
